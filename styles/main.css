@@ -49,7 +49,6 @@ html{
 .panel > *{
   width: 100%;
   transition: transform 0.5;
-  border: 1px solid red;
   display: flex;
   justify-content: center;
   align-items: center;
